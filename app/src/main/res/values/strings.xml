@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tabard</string>
+    <string name="price">%s/malam</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="hotel">Hotel</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="image_user">Image User</string>
+    <string name="name">Agust Rinaldo Kurniawan</string>
+    <string name="email">a1861897@bangkit.academy</string>
+    <string name="linkedin_button">Linkedin Button</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="email_button">Email Button</string>
+    <string name="email_text">Email</string>
+    <string name="call_button">Call Button</string>
+    <string name="telfon">Telfon</string>
+    <string name="back">Back</string>
+    <string name="logo_splash_screen">Logo Splash Screen</string>
+    <string name="button_for_share">Button For Share</string>
+    <string name="button_for_back">Button For Back</string>
+    <string name="image_for_show_hotel">Image For Show Hotel</string>
+    <string name="hotel_name">Hotel</string>
+    <string name="address_hotel">Alamat</string>
+    <string name="booking_sekarang">Booking Sekarang</string>
+</resources>
